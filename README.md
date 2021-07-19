@@ -1,7 +1,7 @@
 # Doodler ReadMe 
 ## Team members
-* [Sami Hakim](https://github.com/hamisakim)
 * [Eric Petsopoulos](https://github.com/ericpesto)
+* [Sami Hakim](https://github.com/hamisakim)
 * [Aida Bourdis](https://github.com/lesroissamusent)
 * [Ayo Olawoye](https://github.com/ayoolawoye)
 
